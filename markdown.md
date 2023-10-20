@@ -12,9 +12,7 @@
     4. for emoji keyboard use cmd+ctrl+space 🌻🌻
 
 
-
-
-#1.Headers:
+# 1.Headers:
 
     Use # to create headings. The number of # characters indicates the heading level
     
@@ -26,7 +24,7 @@
 ### Heading 3
 
 
-#2.Text Styling:
+ # 2.Text Styling:
 
 I-talic: Enclose text in * or _ to make it italic, like *italic* (star italic star) or _italic_ (underscore italic underscore) all without spaces.
     
@@ -36,7 +34,7 @@ I-talic: Enclose text in * or _ to make it italic, like *italic* (star italic st
 -Bold and Italic: Combine * and ** or _ and __ to create both, like ***bold and italic*** or ___bold and italic___(same as previous points just repeat * and _ thrice)
 
 
-#3.Lists:
+# 3.Lists:
 
 Unordered List: Start each item with *, -, or + followed by a space.
 
@@ -47,29 +45,29 @@ example:
 - Item 2
 - Item 3
 
-#4.Links:
+# 4.Links:
 
 To create a link, enclose the link text in square brackets [], followed by the URL in parentheses (). For example: [Google](https://www.google.com).
 
-#5.Images:
+# 5.Images:
 Similar to links, but with an exclamation mark ! in front. Example: ![Alt Text](image_url)
 
-#6.Quotes:
+# 6.Quotes:
 Use > at the beginning of a line to create blockquotes.
 example:
 > This is a blockquote.
 
 
-#7.Code:
+# 7.Code:
 Inline code can be surrounded with backticks (`), like `code`.
 For code blocks, use triple backticks (```) or indent the text by four spaces.
 
 
-#8.Horizontal Rules:
+# 8.Horizontal Rules:
 To create a horizontal rule, use ---, ***, or ___ on a separate line.
 
 
-#9.Tables 
+# 9.Tables 
 
 Create tables with pipes | and hyphens - for the header row. Example
 | Header 1 | Header 2 |
@@ -77,7 +75,7 @@ Create tables with pipes | and hyphens - for the header row. Example
 | Row 1, Col 1 | Row 1, Col 2 |
 | Row 2, Col 1 | Row 2, Col 2 |
 
-#10.Escape Characters 
+# 10.Escape Characters 
 If you want to use a character that has a special meaning in Markdown (e.g., *, #, or [), you can escape it with a backslash.
 
 
