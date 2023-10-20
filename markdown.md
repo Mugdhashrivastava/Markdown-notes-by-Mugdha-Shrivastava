@@ -1,8 +1,9 @@
-# NOTE
+## NOTE
 
     1. .md file is used to create markdown files.
-        mainly used in githubs README too
+        mainly used in githubs README
         those README files are .md too
+        .md is the file extension
     
     2. Here I have used an extension named Markdown Preview Enhanced available in vs code
 
